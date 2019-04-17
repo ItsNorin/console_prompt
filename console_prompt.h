@@ -1,5 +1,8 @@
 #pragma once
 
+// written by ItsNorin
+// https://github.com/ItsNorin
+
 #include <iostream>
 #include <string>
 #include <sstream>
